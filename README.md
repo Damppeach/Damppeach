@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Damppeach
-- 👀 I’m interested in lol
-- 🌱 I’m currently learning vie
+- 👀 I’m interested in block chain
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me : Siqi_Yang@stu.zuel.edu.cn 
 
 <!---
